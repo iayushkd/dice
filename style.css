@@ -1,0 +1,33 @@
+.dices img {
+  height: 25vh;
+}
+
+body {
+  background-color: rgb(52, 41, 41);
+}
+
+h1 {
+  font-size: 6rem;
+  text-align: center;
+  color: cadetblue;
+  font-family: "Lobster", cursive;
+}
+
+.dice {
+  display: flex;
+  justify-content: space-around;
+}
+
+.player {
+  color: aliceblue;
+  text-align: center;
+  padding: 1rem;
+  font-size: 3rem;
+  font-family: "Lobster", cursive;
+}
+footer {
+  padding-top: 10vh;
+  color: aliceblue;
+  font-size: 2rem;
+  text-align: center;
+}
